@@ -1,0 +1,1 @@
+# 使用了Spring session 来管理多台tomcat的Session同步的机制的demo
